@@ -15,6 +15,9 @@ The goal of this project was to apply and reinforce the following front-end conc
 - ✅ Background properties (images, gradients, etc.)
 - ✅ Visual design
 - ✅ Pseudo-elements & pseudo-classes (`:hover`, `:active`, etc.)
+- ✅ Accessibility best practices (semantic tags, alt attributes)
+- ✅ Button interactivity for navigation between sections/pages
+
 
 ---
 
